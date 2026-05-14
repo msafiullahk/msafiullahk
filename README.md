@@ -36,5 +36,5 @@ I build AI-powered SaaS products in Next.js, React, and Node.js with OpenAI, Cla
 - Website: (https://msafiullah.com)
 - Upwork: https://www.upwork.com/freelancers/muhammadsafiullahk
 - LinkedIn: https://www.linkedin.com/in/msafiullahk/
-- X: https://x.com/m_safiullah_k
+- X: https://x.com/msafiullahdev
 - Email: programmingincode@gmail.com
