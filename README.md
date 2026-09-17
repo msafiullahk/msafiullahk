@@ -1,4 +1,4 @@
-# Muhammad Safiullah Khan (Safi)
+# M Safiullah Khan (Safi)
 
 **Full Stack AI Developer** based in Islamabad, Pakistan.
 I build AI-powered SaaS products in Next.js, React, and Node.js with OpenAI, Claude, and LangChain integrations.
