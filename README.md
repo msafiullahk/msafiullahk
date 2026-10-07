@@ -1,38 +1,56 @@
-# M Safiullah Khan (Safi)
+# M Safiullah Khan
 
-**Full Stack AI Developer** based in Islamabad, Pakistan.
-I build AI-powered SaaS products in Next.js, React, and Node.js with OpenAI, Claude, and LangChain integrations.
+**Full-Stack & AI Engineer** based in Islamabad, Pakistan.
+
+I build production SaaS, AI systems, integrations, billing infrastructure, and backend-heavy product features using Next.js, React, Node.js, NestJS, PostgreSQL, MongoDB, Stripe, and modern AI tooling.
+
+Founder & Lead Engineer at [The SyncFlow](https://thesyncflow.com), a white-label engineering studio for agencies.
 
 ## What I build
 
-- AI SaaS MVPs from architecture to production
-- Production AI features and agents with LangChain, LangGraph, MCP
-- AI feature integration into existing Next.js apps
-- EU-compliant SaaS infrastructure (Peppol-integrated)
-- Full stack rescue and refactor work
+- Production SaaS platforms
+- AI features, agents, RAG systems, and LLM workflows
+- Third-party integrations and automation
+- Stripe subscriptions, usage-based billing, and payment flows
+- Multi-tenant dashboards, portals, and internal tools
+- AI-generated / no-code prototypes → production systems
+- Backend architecture, APIs, and system design
 
-## Recent work
+## Selected work
 
-- **Lainey AI** — Founding full stack developer on AI-powered Women SaaS platform.
-- **MyFileTracker** — Peppol-integrated B2B invoicing SaaS for EU compliance.
-- **Wish2Share** — Multi-network affiliate wishlist platform integrating 6 affiliate APIs.
+- **Lainey AI** — Founding full-stack developer on an AI-powered SaaS platform; 500+ hours of product engineering.
+- **MyFileTracker** — Peppol-integrated B2B invoicing SaaS for European compliance workflows.
+- **Wish2Share** — Multi-network affiliate wishlist platform integrating multiple affiliate APIs.
+- **BlackAlgo** — Full-stack algorithmic trading platform with real-time product infrastructure.
+- **Avana** — SaaS product work across booking, payments, scheduling, and operational workflows.
 
 ## Tech stack
 
-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Next.js, React, TypeScript, Tailwind CSS
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, NestJS, Express, FastAPI
-𝗗𝗮𝘁𝗮 𝗮𝗻𝗱 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲: PostgreSQL, Supabase, Firebase, Redis, pgvector, Pinecone, Docker, AWS, Vercel
-𝗔𝗜: OpenAI API, Claude API, LangChain, LangGraph, RAG systems, AI agents, MCP servers
-𝗣𝗮𝘆𝗺𝗲𝗻𝘁𝘀 𝗮𝗻𝗱 𝗔𝘂𝘁𝗵: Stripe with subscriptions and usage-based billing, OAuth, JWT, RBAC, Clerk, NextAuth
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS
 
-## Stats
+**Backend:** Node.js, NestJS, Express, FastAPI
+
+**Data & Infrastructure:** PostgreSQL, MongoDB, Supabase, Firebase, Redis, pgvector, Pinecone, Docker, AWS, Vercel
+
+**AI:** OpenAI API, Claude API, LangChain, LangGraph, RAG systems, AI agents, MCP
+
+**Payments & Auth:** Stripe, subscriptions, usage-based billing, OAuth, JWT, RBAC, Clerk, Auth.js
+
+## Proof
 
 - Top Rated on Upwork
 - 100% Job Success Score
-- 11 completed contracts, all 5 stars
+- 11 completed contracts
+- 5-star client feedback
+
+## Current interests
+
+System design, production AI, SaaS architecture, distributed workflows, developer tooling, and resilient backend systems.
 
 ## Connect
 
+- Website: https://msafiullah.com
+- The SyncFlow: https://thesyncflow.com
 - Upwork: https://www.upwork.com/freelancers/muhammadsafiullahk
 - LinkedIn: https://www.linkedin.com/in/msafiullahk/
 - Email: programmingincode@gmail.com
